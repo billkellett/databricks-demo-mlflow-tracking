@@ -1,5 +1,4 @@
 # databricks-demo-mlflow-tracking
-Demo of MLflow Tracking 
 
 This project contains Notebooks and other resources for a __Databricks MLflow Tracking demo__.
 
